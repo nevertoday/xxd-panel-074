@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 074
+# 🦁 XXD Panel 074｜感情アイコン手帳
 
 ### 写真の魂を、正面擬似3Dの角丸ブランドアイコンへ凝縮する
 

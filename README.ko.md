@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 074
+# 🦁 XXD Panel 074｜감정 아이콘 저널
 
 ### 사진의 영혼을 정면 유사 3D 둥근 브랜드 아이콘으로 압축합니다
 

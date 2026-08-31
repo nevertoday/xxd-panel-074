@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 074
+# 🦁 XXD Panel 074｜Mood Icon Journal
 
 ### Distil a photograph's soul into a front-facing pseudo-3D rounded brand icon
 

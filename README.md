@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 074
+# 🦁 XXD Panel 074｜情绪图标志
 
 ### 把照片的灵魂提炼成正面伪 3D 圆角品牌图标
 

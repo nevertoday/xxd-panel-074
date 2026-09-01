@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 074" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 074｜دفتر أيقونات المزاج

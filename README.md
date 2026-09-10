@@ -10,23 +10,18 @@
 
 ## 样张展示
 
-**16:9 横版左右样张**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 竖版上下样张**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-原始 X 样张及其可核验出处尚未提供，因此 `sample-01`–`sample-04` 暂不展示。以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 074 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 很多照片转图标只是把原图缩进圆角方框，或套上统一的 3D 材质；看起来像图标，却没有保留照片真正有力量的关系和情绪。

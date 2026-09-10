@@ -46,6 +46,15 @@ Many photo-to-icon treatments simply shrink the source into a rounded square or 
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -64,23 +73,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Subject, outline, pose, and core relationship remain; colour is derived entirely from the source before canonical brightening and hierarchy |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-understand subject, action, relationship, and metaphor → fix the standard 1:1 rounded-square stage → rebuild the source's soul with the fewest essential elements → create continuous 2.5D space through frontal occlusion, thickness, height, soft facets, and relief → art-direct colour entirely from the source → finish with soft matte sculpture → leave quiet outer space and minimal editorial type
-```
-
-## Recognisable finished traits
-
-- Preserve only the most memorable identity, pose, contour, and narrative relationship instead of redrawing the full scene.
-- Keep the exterior a four-equal-sided, uniform-radius, front-facing 1:1 rounded rectangle that the subject never alters.
-- Build one continuous frontal pseudo-3D space through credible occlusion, thickness, height, soft facets, local relief, and distance.
-- Organise the icon around one core visual relationship; exaggeration or symbolic conversion must not collapse into a generic centred object.
-- Derive and remix colour entirely from the source, with no fixed palette, averaged sampling, or unfocused multicolour.
-- Keep the finish delicate, matte, and soft between editorial illustration, miniature art model, and branded 3D visual.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-074-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>

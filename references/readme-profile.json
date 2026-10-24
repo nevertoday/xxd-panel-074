@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 074｜Mood Icon Journal: distils the subject, action, relationship and mood of a photo into one original front-facing pseudo-3D (2.5D) icon inside a fixed, perfectly square rounded-corner frame like a high-end app icon — never stretched, tilted or reshaped — with a few key elements given real thickness, overlap, soft facets and low relief in one continuous space, a clear silhouette that still reads when small, matte, softly sculpted surfaces (not glossy plastic, jelly glass or metal), colours derived only from the photo and brightened and cleaned, and the icon alone on wide clean whitespace with at most a little fine editorial text outside it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-074 or asks for app-icon style, rounded-square 2.5D icon or brand icon concepts from a photo.",
+  "short_description": "情绪图标志：把照片的主体、关系和情绪提炼成一枚正面伪 3D 的圆角方形品牌图标",
+  "zh-CN": {
+    "name": "情绪图标志",
+    "tagline": "把照片里的主体和情绪提炼成一枚正面、哑光、有立体层次的圆角方形图标。",
+    "look": "画面中只有一枚图标：外框永远是四边等长、圆角统一、正面平视的圆角正方形，像一枚规范的 App 图标。框内用最少的关键元素重建照片的主体、动作和关系，前后遮挡、体积厚度和局部浮雕连成一个连续的立体空间，缩小后仍认得出。表面是细腻柔和的哑光雕塑感，不反光、不像塑料玩具或果冻玻璃。颜色只从照片里推导，提亮、去灰后更鲜活。图标四周是大片干净留白，如有文字只在框外放一点精致小字。",
+    "traits": [
+      "标准圆角方形",
+      "正面2.5D",
+      "核心关系",
+      "连续遮挡",
+      "源图配色",
+      "哑光雕塑"
+    ],
+    "good": [
+      "有明确主体和小故事的照片：抱着鱼的猫、雨中撑伞的人、窗边的盆栽",
+      "能用一两个元素说清的场景：山和日出、一杯咖啡和热气、船和灯塔",
+      "想做品牌提案、App 图标或头像概念的照片"
+    ],
+    "poor": [
+      "需要很多元素才能讲清的大场景：街景全景、多人聚会、复杂市场",
+      "想要照片缩略图、等距沙盘、剪纸叠层或游戏 UI 风格的需求",
+      "需要非方形外轮廓、倾斜透视或光亮塑料、金属高光的效果"
+    ]
+  },
+  "en": {
+    "name": "Mood Icon Journal",
+    "tagline": "Distils the subject and mood of your photo into one front-facing, matte, layered rounded-square icon.",
+    "look": "The design holds a single icon: its frame is always a square with equal sides and even rounded corners, seen straight on, like a well-formed app icon. Inside, the fewest key elements rebuild the photo's subject, action and relationship, with overlap, thickness and low relief joined into one continuous 3D space that still reads at small sizes. The surfaces are soft, finely sculpted and matte, with no shine, plastic-toy or jelly-glass look. Colours come only from the photo, brightened and cleaned to feel more alive. The icon sits on wide clean whitespace, with at most a little fine text outside the frame.",
+    "traits": [
+      "Standard rounded square",
+      "Front-facing 2.5D",
+      "Core relationship",
+      "Continuous overlap",
+      "Photo-derived colour",
+      "Matte sculpture"
+    ],
+    "good": [
+      "Photos with a clear subject and a small story: a cat holding a fish, a person with an umbrella in the rain, a plant by a window",
+      "Scenes that one or two elements can tell: a mountain and sunrise, a coffee with steam, a boat and a lighthouse",
+      "Photos you want to turn into a brand pitch, an app icon or an avatar concept"
+    ],
+    "poor": [
+      "Wide scenes that need many elements to explain: street panoramas, parties, busy markets",
+      "Requests for a photo thumbnail, an isometric diorama, stacked paper cut-outs or a game UI look",
+      "Looks that need a non-square outline, tilted perspective, glossy plastic or metallic highlights"
+    ]
+  },
+  "ja": {
+    "name": "感情アイコン手帳",
+    "tagline": "写真の主役と気分を、正面から見たマットで奥行きのある角丸正方形のアイコン一つに凝縮します。",
+    "look": "画面にあるのはアイコン一つだけです。外枠は常に四辺が等しく角の丸みが揃った正面向きの角丸正方形で、きちんとしたアプリアイコンのようです。枠の中では、最小限の要素で写真の主役、動き、関係を組み直し、前後の重なり、厚み、浅い浮き彫りが一つの続いた立体空間をつくり、小さくしても見分けがつきます。表面は細やかで柔らかなマットな彫刻のようで、光沢やプラスチックのおもちゃ、ゼリー状のガラスの感じはありません。色は写真だけから導き、明るく澄ませて生き生きさせます。アイコンのまわりは広くきれいな余白で、文字があっても枠の外に小さく上品に置くだけです。",
+    "traits": [
+      "正しい角丸正方形",
+      "正面の2.5D",
+      "中心となる関係",
+      "続いた重なり",
+      "写真由来の配色",
+      "マットな彫刻感"
+    ],
+    "good": [
+      "主役と小さな物語がはっきりした写真：魚を抱えた猫、雨の中で傘をさす人、窓辺の鉢植え",
+      "一つか二つの要素で伝わる場面：山と日の出、湯気の立つコーヒー、船と灯台",
+      "ブランド提案、アプリアイコン、アイコン画像の案にしたい写真"
+    ],
+    "poor": [
+      "多くの要素がないと伝わらない広い場面：街の全景、大勢のパーティー、混み合う市場",
+      "写真のサムネイル、アイソメトリックのジオラマ、切り紙の重ね、ゲーム UI 風を求める場合",
+      "正方形でない外形、傾いた遠近、つやのあるプラスチックや金属のハイライトが必要な場合"
+    ]
+  },
+  "ko": {
+    "name": "감정 아이콘 저널",
+    "tagline": "사진의 주인공과 분위기를 정면에서 본, 무광의 입체감 있는 둥근 정사각형 아이콘 하나로 압축합니다.",
+    "look": "화면에는 아이콘 하나만 있습니다. 바깥 틀은 언제나 네 변이 같고 모서리 둥글기가 고른 정면 시점의 둥근 정사각형으로, 잘 다듬어진 앱 아이콘 같습니다. 틀 안에서는 최소한의 핵심 요소로 사진의 주인공, 동작, 관계를 다시 세우고, 앞뒤 겹침과 두께, 얕은 부조가 하나로 이어진 입체 공간을 만들어 작게 줄여도 알아볼 수 있습니다. 표면은 섬세하고 부드러운 무광 조각 느낌으로, 반짝임이나 플라스틱 장난감, 젤리 유리 같은 느낌이 없습니다. 색은 사진에서만 끌어와 밝고 맑게 다듬어 더 생기 있게 만듭니다. 아이콘 주변은 넓고 깨끗한 여백이며, 글자가 있다면 틀 밖에 작고 정갈하게만 둡니다.",
+    "traits": [
+      "표준 둥근 정사각형",
+      "정면 2.5D",
+      "핵심 관계",
+      "이어진 겹침",
+      "사진에서 온 색",
+      "무광 조각"
+    ],
+    "good": [
+      "주인공과 작은 이야기가 분명한 사진: 생선을 안은 고양이, 빗속에 우산 쓴 사람, 창가의 화분",
+      "한두 가지 요소로 전달되는 장면: 산과 해돋이, 김이 나는 커피, 배와 등대",
+      "브랜드 제안, 앱 아이콘, 프로필 이미지 시안으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "요소가 많아야 설명되는 넓은 장면: 거리 전경, 여러 사람의 파티, 복잡한 시장",
+      "사진 썸네일, 아이소메트릭 디오라마, 종이 오려 붙이기 겹침, 게임 UI 느낌을 원하는 경우",
+      "정사각형이 아닌 외곽, 기울어진 원근, 광택 플라스틱이나 금속 하이라이트가 필요한 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر أيقونات المزاج",
+    "tagline": "يختزل العنصر الرئيسي ومزاج صورتك في أيقونة واحدة مربعة مستديرة الزوايا، أمامية مطفأة اللمعان ومتعددة الطبقات.",
+    "look": "يحمل التصميم أيقونة واحدة فقط: إطارها دائماً مربع متساوي الأضلاع بزوايا مستديرة متماثلة، يُرى من الأمام مباشرة، كأيقونة تطبيق متقنة. في الداخل تعيد أقل العناصر الأساسية بناء العنصر الرئيسي وحركته وعلاقته، مع تراكب وسماكة ونقش بارز خفيف تجتمع في فضاء مجسّم واحد متصل يبقى مقروءاً حتى بحجم صغير. الأسطح ناعمة منحوتة بدقة ومطفأة، بلا لمعان ولا مظهر لعبة بلاستيكية أو زجاج هلامي. الألوان مستمدة من الصورة وحدها، مرفوعة الإشراق ومصفّاة لتبدو أكثر حيوية. وتقف الأيقونة على فراغ واسع نظيف، ولا يظهر النص إن وُجد إلا قليلاً وبحرف رقيق خارج الإطار.",
+    "traits": [
+      "مربع قياسي مستدير الزوايا",
+      "2.5D أمامي",
+      "علاقة محورية",
+      "تراكب متصل",
+      "ألوان من الصورة",
+      "نحت مطفأ"
+    ],
+    "good": [
+      "صور فيها عنصر واضح وقصة صغيرة: قطة تحتضن سمكة، شخص بمظلة تحت المطر، نبتة قرب نافذة",
+      "مشاهد يرويها عنصر أو عنصران: جبل وشروق، قهوة يتصاعد بخارها، قارب ومنارة",
+      "صور تريد تحويلها إلى عرض لعلامة تجارية أو أيقونة تطبيق أو صورة شخصية"
+    ],
+    "poor": [
+      "مشاهد واسعة تحتاج إلى عناصر كثيرة: بانوراما الشوارع، الحفلات، الأسواق المزدحمة",
+      "طلب صورة مصغّرة للصورة أو مجسّم متساوي القياس أو طبقات قصاصات ورقية أو مظهر واجهة ألعاب",
+      "مظهر يحتاج إلى محيط غير مربع أو منظور مائل أو بلاستيك لامع أو لمعة معدنية"
+    ]
+  }
+}

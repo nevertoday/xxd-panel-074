@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-074
-description: "Create XXD Panel 074 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-074 or requests the exact Panel 074 style."
+description: "XXD Panel 074｜Mood Icon Journal: distils the subject, action, relationship and mood of a photo into one original front-facing pseudo-3D (2.5D) icon inside a fixed, perfectly square rounded-corner frame like a high-end app icon — never stretched, tilted or reshaped — with a few key elements given real thickness, overlap, soft facets and low relief in one continuous space, a clear silhouette that still reads when small, matte, softly sculpted surfaces (not glossy plastic, jelly glass or metal), colours derived only from the photo and brightened and cleaned, and the icon alone on wide clean whitespace with at most a little fine editorial text outside it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-074 or asks for app-icon style, rounded-square 2.5D icon or brand icon concepts from a photo."
 ---
 
 # XXD Panel 074
